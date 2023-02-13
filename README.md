@@ -8,7 +8,7 @@ This repository contains a Java implementation of a chess engine. The engine fea
 * Neat & Intuitive Interface
 
 ## Usage
-* To run the chess engine, simply run the main method in the Jchess class.
+* To run the chess engine, simply run the main method in the JChess class.
 
 
 ## Design
